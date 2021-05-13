@@ -3,10 +3,7 @@
     "BIDSVersion": "1.6.0",
     "Authors": [
         "Jixing Li",
-        "Murielle Fabre",
-        "Wen-Ming Luh",
         "John Hale",
-        "Shohini Bhattasali",
         "Christophe Pallier"
     ],
     "License": "CC0"
