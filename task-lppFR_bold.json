@@ -1,4 +1,8 @@
 {
-"TaskName" : "lpp",
-"RepetitionTime" : 2
+"TaskName" : "lppFR",
+"RepetitionTime" : 2,
+"EchoTime" : [0.010, 0.025, 0.038],
+"FlipAngle" : 77,
+"Manufacturer" : "Siemens",
+"ManufacterersModelName" : "Magnetom Prisma Fit 230"
 }
