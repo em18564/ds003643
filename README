@@ -19,3 +19,4 @@ Data Preprocessing
 All fMRI data were preprocessed using AFNI version 16 (Cox 1996).  The first 4 volumes in each run were excluded from analyses to allow for T1-equilibration effects. Multi-echo independent components analysis (ME-ICA) (Kundu et al. 2012) were used to denoise data for motion, physiology and scanner artifacts.  Images were then spatially normalized to the standard space of the Montreal Neurological Institute (MNI) atlas, yielding a volumetric time series resampled at 2 mm cubic voxels for the English and Chinese data and 3.15 mm cubic voxels for the French data. These processed data files are available under the derivatives directory. 
 
 
+
