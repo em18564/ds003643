@@ -1,10 +1,6 @@
 {
-    "Name": "Le Petit Prince: A multilingual fMRI corpus using ecological stimuli",
-    "BIDSVersion": "1.6.0",
-    "Authors": [
-        "Jixing Li",
-        "John Hale",
-        "Christophe Pallier"
-    ],
-    "License": "CC0"
+  "Name": "The Little Prince: Natural Language Comprehension fMRI Dataset",
+  "BIDSVersion": "1.6.0",
+  "Authors": ["Jixing Li", "John Hale", "Christophe Pallier"],
+  "License" : "CCO"
 }
