@@ -9,6 +9,7 @@
 *.xlsx
 *.csv
 *.TextGrid
+bidsignore
 annotation/**/*.CSV
 annotation/**/*.TextGrid
 quiz/*.CSV
