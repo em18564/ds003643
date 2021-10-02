@@ -18,7 +18,7 @@ The English audiobook is 94 minutes long, translated by David Wilkinson and read
 
 Acquisition
 
-English and Chinese MRI images were acquired with a 3T MRI GE Discovery MR750 scanner with a 32-channel head coil. French MRI images were acquired with a 3T Siemens Magnetom Prisma Fit 230 scanner. Anatomical scans were acquired using a T1-weighted volumetric Magnetization Prepared Rapid Gradient-Echo (MP-RAGE) pulse sequence. Functional scans were acquired using a multi-echo planar imaging (ME-EPI) sequence with online reconstruction (TR=2000 ms; English and111Chinese: TEs=12.8, 27.5, 43 ms; French: TEs=10, 25, 38 ms; FA=77◦; matrix size=72 x 72; FOV=240.0 mm x 240.0 mm; 2112x image acceleration; English and Chinese: 33 axial slices; French: 34 axial slices; voxel size=3.75 x 3.75 x 3.8 mm).
+English and Chinese MRI images were acquired with a 3T MRI GE Discovery MR750 scanner with a 32-channel head coil. French MRI images were acquired with a 3T Siemens Magnetom Prisma Fit 230 scanner. Anatomical scans were acquired using a T1-weighted volumetric Magnetization Prepared Rapid Gradient-Echo (MP-RAGE) pulse sequence. Functional scans were acquired using a multi-echo planar imaging (ME-EPI) sequence with online reconstruction (TR=2000 ms; English and Chinese: TEs=12.8, 27.5, 43 ms; French: TEs=10, 25, 38 ms; FA=77◦; matrix size=72 x 72; FOV=240.0 mm x 240.0 mm; 2112x image acceleration; English and Chinese: 33 axial slices; French: 34 axial slices; voxel size=3.75 x 3.75 x 3.8 mm).
 
 Preprocessing
 
