@@ -104,7 +104,7 @@
 		0.999998,
 		0.00174533	],
 	"InPlanePhaseEncodingDirectionDICOM": "COL",
-	"TaskName": "lpp-FR",
 	"ConversionSoftware": "dcm2niix",
-	"ConversionSoftwareVersion": "v1.0.20181125  GCC5.3.1"
+	"ConversionSoftwareVersion": "v1.0.20181125  GCC5.3.1",
+	"TaskName": "lppFR"
 }
